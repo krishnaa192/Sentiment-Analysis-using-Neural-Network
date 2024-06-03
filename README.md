@@ -18,32 +18,13 @@ This project demonstrates sentiment analysis using an LSTM network, incorporatin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/sentiment-analysis-lstm.git
-    cd sentiment-analysis-lstm
+    git clone https://github.com/krishnaa192/Sentiment-Analysis-using-Neural-Network.git
     ```
 
 2. Install the dependencies:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+##Accuracy
+- 93%
 
-## Usage
 
-1. **Data Preparation**: Prepare the dataset.
 
-    ```bash
-    python src/data_preprocessing.py
-    ```
-
-2. **Model Training**: Train the LSTM model.
-
-    ```bash
-    python src/train.py
-    ```
-
-3. **Evaluation**: Evaluate the model performance.
-
-    ```bash
-    python src/evaluate.py
-    ```
