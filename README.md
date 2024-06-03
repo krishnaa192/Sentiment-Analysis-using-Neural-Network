@@ -23,7 +23,7 @@ This project demonstrates sentiment analysis using an LSTM network, incorporatin
 
 2. Install the dependencies:
 
-##Accuracy
+## Accuracy
 - 93%
 
 
